@@ -179,7 +179,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - blog
         author: ""
         category: ""
         tag: ""
@@ -207,7 +207,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
-    id: publications
+    id: publication
     content:
       title: Recent Publications
       text: |-

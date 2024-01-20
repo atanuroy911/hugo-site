@@ -17,8 +17,6 @@ image:
 
 In the realm of artificial intelligence, ChatGPT stands out as a fascinating example of how machines can understand and generate human-like text. For young tech enthusiasts eager to unravel the magic behind this innovative technology, let's take a journey into the technical intricacies of ChatGPT in a way that's easy to grasp.
 
-![](https://assets-global.website-files.com/6344c9cef89d6f2270a38908/64148ed756708f9b82464c96_image-of-hand-holding-an-ai-face-looking-at-the-words-chatgpt-openai.webp "Source: https://aloa.co/blog/what-is-chat-gpt-understanding-the-basics-for-product-development-in-2023")
-
 ### The Architecture:
 
 At the heart of ChatGPT is a powerful neural network, a kind of virtual brain inspired by the structure of our own. This neural network, called GPT (Generative Pre-trained Transformer), is trained on vast amounts of diverse text from the internet. It learns patterns, associations, and the way words fit together, making it a language-savvy conversationalist.

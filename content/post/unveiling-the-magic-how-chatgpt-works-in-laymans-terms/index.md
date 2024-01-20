@@ -12,6 +12,7 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
+  caption: "Source: https://www.universretail.com/en/chat-gpt-retail/"
 ---
 ### Introduction:
 
